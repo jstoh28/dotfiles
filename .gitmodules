@@ -1,3 +1,6 @@
 [submodule "submodules/eclipse"]
 	path = submodules/eclipse
 	url = https://gist.github.com/5654905.git
+[submodule "submodules/git-goth"]
+	path = submodules/git-goth
+	url = git@github.com:mig33/git-goth.git
