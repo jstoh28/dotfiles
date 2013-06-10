@@ -1,0 +1,3 @@
+[submodule "submodules/eclipse"]
+	path = submodules/eclipse
+	url = https://gist.github.com/5654905.git
